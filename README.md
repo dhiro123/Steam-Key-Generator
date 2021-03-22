@@ -1,4 +1,4 @@
-# Steam-Giftcard-Generator
+# Steam Giftcard Generator
 Simple steam giftcard generator coded by me
 
 # Use
@@ -7,6 +7,4 @@ open the script on cmd via "python GiftGenerator.py"
 or just execute it.
 use is simple
 
-Matty#8952
-:P
-1) Discord server: https://discord.gg/UgJhHu7
+Discord:andro#9999
