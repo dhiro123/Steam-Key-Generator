@@ -1,5 +1,5 @@
 #This is a simple STEAM GiftCard generator Made by ANDRO
-#Im new in coding, if u want to help me: andro#9999(my discord)
+#Im new in coding, if u want to help me: andro#1000(my discord)
 #Coded in 5/9/2020
 import random
 import string
