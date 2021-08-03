@@ -7,4 +7,4 @@ open the script on cmd via "python GiftGenerator.py"
 or just execute it.
 use is simple
 
-Discord:andro#1000
+Discord: andro#1000
